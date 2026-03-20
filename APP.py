@@ -1,3 +1,13 @@
+streamlit
+pandas
+matplotlib
+google-generativeai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+
 """
 MI ASISTENTE IA - VERSIÓN WEB
 Funciona en celular y computador
